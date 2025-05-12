@@ -4,11 +4,8 @@ In this hackathon, you explore how to use autonomous agents in the enterprise to
 
 
 
-Key components of Copilot Studio
+# Key components of Copilot Studio
 Before you create autonomous agents, it's important that you understand Copilot Studio foundational elements to harness its capabilities. The following table includes the key components of Copilot Studio.
-
-
-# Key Components of the Agent
 
 
 | Component    | Key Capabilities                                                                 |
