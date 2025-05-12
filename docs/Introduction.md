@@ -25,7 +25,7 @@ Before you create autonomous agents, it's important that you understand Copilot 
 
 In this lab, you use Copilot Studio to create an agent that helps HR with onboarding a new employee. This exercise requires you to create a Microsoft Dataverse table. 
 
-#Scenario
+## Scenario
 - Provide general information and answer queries that relate to employee onboarding.
 - Submit a request automatically to onboard a new employee through the system.
 - Send an onboarding request approval email automatically to the hiring manager that includes tasks, such as:
