@@ -13,8 +13,8 @@ Provide general information and answer queries that relate to employee onboardin
 ![Create Autonomous Agent](../Images/exercise-create-autonomous-agent.svg)
 2. From the Create New Agent screen, you can choose from two methods to create an agent:
 
--Describe the chat window (1).
--Create the agent manually by selecting Skip to configure (2).
+- Describe the chat window (1).
+- Create the agent manually by selecting Skip to configure (2).
 For this exercise, select **Skip to configure**.
 
 ![Skip to Configure](../Images/exercise-create-autonomous-agent-skip.svg)
