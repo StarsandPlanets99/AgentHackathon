@@ -71,8 +71,8 @@ Select **Next** to continue (3).
 
 8. Select **Knowledge** in the navigation bar to view resource details.
 
--Select the Add knowledge option (1) to add more resources.
--Under the All area, you can check the status of the added resources (2).
+- Select the Add knowledge option (1) to add more resources.
+- Under the All area, you can check the status of the added resources (2).
 ![Review and Finalize](../Images/exercise-enhance-agent-intelligence-review-finish.svg) 
 
 
