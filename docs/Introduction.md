@@ -1,4 +1,4 @@
-Bring autonomous agents into the enterprise
+# Bring autonomous agents into the enterprise
 
 In this hackathon, you explore how to use autonomous agents in the enterprise to transform processes and drive innovation. By examining real-world use cases and the key components of Copilot Studio, you can gain insights into the transformative power of AI-driven agents. As a result, you can apply their capabilities in your organization to bring innovation and efficiency
 
@@ -10,7 +10,6 @@ Before you create autonomous agents, it's important that you understand Copilot 
 
 # Key Components of the Agent
 
-# Key Components of the Agent
 
 | Component    | Key Capabilities                                                                 |
 |--------------|----------------------------------------------------------------------------------|
