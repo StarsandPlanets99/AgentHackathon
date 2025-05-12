@@ -18,7 +18,7 @@ To create a new agent in Copilot Studio, sign in to Copilot Studio by using your
 On the Home screen, select Create in the left navigation pane. On the next page, select the Create New Agent box.
 
 Screenshot of creating an autonomous agent.
-![Create Autonomous Agent](..Images/exercise-create-autonomous-agent.svg)
+![Create Autonomous Agent](../Images/exercise-create-autonomous-agent.svg)
 From the Create New Agent screen, you can choose from two methods to create an agent:
 
 Describe the chat window (1).
