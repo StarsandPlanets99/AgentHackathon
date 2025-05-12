@@ -20,3 +20,18 @@ Before you create autonomous agents, it's important that you understand Copilot 
 | **Activity**  | Tracks and logs interactions, providing visibility into user engagement with the agent.  |
 | **Analytics** | Provides insights and performance metrics on agent usage, effectiveness, and user interactions.  |
 | **Channels**  | Configures deployment options, which allows the agent to be accessible on various platforms like Microsoft Teams or internal and external websites. |
+
+# Lab Overview
+
+In this lab, you use Copilot Studio to create an agent that helps HR with onboarding a new employee. This exercise requires you to create a Microsoft Dataverse table. 
+
+#Scenario
+- Provide general information and answer queries that relate to employee onboarding.
+- Submit a request automatically to onboard a new employee through the system.
+- Send an onboarding request approval email automatically to the hiring manager that includes tasks, such as:
+  - Procuring a laptop
+  - Setting up an email account
+  - Other onboarding essentials
+- Analyze the response for approval after the hiring manager responds to the email. Then, based on the response, take action to:
+  - Send an email to the IT/procurement team to procure a laptop and set up their access.
+- Wait for the IT/procurement team to confirm procurement and then email the new employee with onboarding instructions.
