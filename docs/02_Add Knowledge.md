@@ -1,11 +1,9 @@
-# Exercise - Create your first autonomous agent
+# Exercise - Create your first autonomous agent & Add Knowledge
 
 In this exercise, you use Copilot Studio to create an agent that helps HR with onboarding a new employee. 
 
 # Scenario
-As a member of the HR team, you're building an HR agent to simplify the employee onboarding process. Your goal is to create an agent that can perform the following activity:
-
-Provide general information and answer queries that relate to employee onboarding.
+As a member of the HR team, you're building an HR agent to simplify the employee onboarding process. Your goal is to create an agent that can **Provide general information and answer queries that relate to employee onboarding**.
 
 # Create the Autonomous Agent
 1. On the Home screen, select Create in the left navigation pane. On the next page, select the Create New Agent box.
@@ -15,11 +13,13 @@ Provide general information and answer queries that relate to employee onboardin
 
 - Describe the chat window (1).
 - Create the agent manually by selecting Skip to configure (2).
+
 For this exercise, select **Skip to configure**.
 
 ![Skip to Configure](../Images/exercise-create-autonomous-agent-skip.svg)
 
-The Create New Agent screen has three fields: Name, Description, and Instructions. For this exercise, enter the following information in these fields:
+The Create New Agent screen has three fields: Name, Description, and Instructions. 
+For this exercise, enter the following information in these fields:
 
 - Name (1) - Employee Onboarding Agent
 - Description (2) - An agent developed to simplify the employee onboarding process.
