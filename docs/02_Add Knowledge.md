@@ -7,7 +7,7 @@ As a member of the HR team, you're building an HR agent to simplify the employee
 
 Provide general information and answer queries that relate to employee onboarding.
 
-#Create the Autonomous Agent
+# Create the Autonomous Agent
 1. On the Home screen, select Create in the left navigation pane. On the next page, select the Create New Agent box.
 
 ![Create Autonomous Agent](../Images/exercise-create-autonomous-agent.svg)
@@ -28,7 +28,7 @@ The Create New Agent screen has three fields: Name, Description, and Instruction
 
 4. Select the Create button to create the agent.
 
-#Enhance agent intelligence. 
+# Enhance agent intelligence. 
 You can enhance the Employee Onboarding Agent that you created in the previous portion of this exercise by adding knowledge and intelligence to the agent.
 
 1. To add generative reasoning to the agent, in the Orchestration section, turn on Use generative AI to determine how best to respond to users and events (preview). This selection allows generative AI reasoning to respond to questions from different users.
@@ -47,7 +47,7 @@ In addition to enhancing knowledge from generative AI, you can use the Knowledge
 
 ![Employee Interaction](../Images/exercise-enhance-agent-intelligence-employee-details.svg) 
 
-5.On the **Step 1 of 3: Select Dataverse tables** wizard page, follow these steps to connect the table from Dataverse:
+5. On the **Step 1 of 3: Select Dataverse tables** wizard page, follow these steps to connect the table from Dataverse:
 
 In the search bar (1), search for the table named **Employee Details**.
 From the list of tables that contain **Employee Details** in their names, select the table that you want to connect to (2). You can select multiple tables as a knowledge source.
@@ -63,9 +63,9 @@ c. Select **Next** to continue (3).
 
 7. On the **Step 3: Review and finish** wizard page, follow these steps:
 
-a.Name the knowledge source **Employee Details** (1).
-b.For the knowledge source description, enter **This knowledge source answers questions found in the following Dataverse tables: Employee Details** (2).
-c. Select the **Add** button to add the table as a knowledge source (3).
+    a. Name the knowledge source **Employee Details** (1).  
+    b. For the knowledge source description, enter **This knowledge source answers questions found in the following Dataverse tables: Employee Details** (2).
+    c. Select the **Add** button to add the table as a knowledge source (3).
 ![Preview Data](../Images/exercise-enhance-agent-intelligence-preview-data.svg)
  
 
