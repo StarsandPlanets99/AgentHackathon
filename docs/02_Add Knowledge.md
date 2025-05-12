@@ -47,27 +47,27 @@ In addition to enhancing knowledge from generative AI, you can use the Knowledge
 
 To upload your resources and create a knowledge base, select the Add knowledge button to ensure that your agent has the information for accurate and efficient responses.
 
-![Add Knowledge](../Images/exercise-enhance-agent-intelligence-add-knowledge.svg)
+![Dataverse Connection](../Images/exercise-enhance-agent-intelligence-dataverse-preview.svg) 
 
 For this exercise, create a Dataverse table with the columns from the Employee details.csv file. (For more information, see Create tables in Microsoft Dataverse.)
 
 In the Add knowledge wizard, select Dataverse (preview) to connect the table.
 
-![Dataverse Connection](../Images/exercise-enhance-agent-intelligence-dataverse.svg) 
+![Employee Interaction](../Images/exercise-enhance-agent-intelligence-employee-details.svg) 
 
 On the Step 1 of 3: Select Dataverse tables wizard page, follow these steps to connect the table from Dataverse:
 
 In the search bar (1), search for the table named Employee Details.
 From the list of tables that contain Employee Details in their names, select the table that you want to connect to (2). You can select multiple tables as a knowledge source.
 Select Next to continue (3).
-![Employee Interaction](../Images/exercise-enhance-agent-intelligence-employee.svg) 
+
 
 On the Step 2 of 3: Preview data wizard page, follow these steps:
 
 Choose the table name from the Select a table to review dropdown list (1).
 Review the details of the selected table (2).
 Select Next to continue (3).
-![Orchestrate](../Images/exercise-enhance-agent-intelligence-orchestrate.svg)
+![Orchestrate](../Images/exercise-enhance-agent-intelligence-orchestration.svg)
 
 On the Step 3: Review and finish wizard page, follow these steps:
 
@@ -75,7 +75,7 @@ Name the knowledge source Employee Details (1).
 For the knowledge source description, enter This knowledge source answers questions found in the following Dataverse tables: Employee Details (2).
 Select the Add button to add the table as a knowledge source (3).
 ![Preview Data](../Images/exercise-enhance-agent-intelligence-preview-data.svg)
-![Review and Finalize](../Images/exercise-enhance-agent-intelligence-review-final.svg)  
+![Review and Finalize](../Images/exercise-enhance-agent-intelligence-review-finish.svg)  
 
 Select Knowledge in the navigation bar to view resource details.
 
