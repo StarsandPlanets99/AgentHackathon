@@ -54,9 +54,9 @@ From the list of tables that contain **Employee Details** in their names, select
 Select **Next** to continue (3).
 
 
-6. On the **Step 2 of 3**: Preview data wizard page, follow these steps:
-    a.Choose the table name from the **Select a table to review** dropdown list (1).  
-    b.Review the details of the selected table (2).  
+6. On the **Step 2 of 3**: Preview data wizard page, follow these steps:  
+    a. Choose the table name from the **Select a table to review** dropdown list (1).  
+    b. Review the details of the selected table (2).  
     c. Select **Next** to continue (3).    
 ![Orchestrate](../Images/exercise-enhance-agent-intelligence-orchestration.svg)
 
