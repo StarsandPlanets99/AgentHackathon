@@ -56,15 +56,15 @@ Select **Next** to continue (3).
 
 6.On the **Step 2 of 3**: Preview data wizard page, follow these steps:
 
-a.Choose the table name from the **Select a table to review** dropdown list (1).
-b.Review the details of the selected table (2).
-c. Select **Next** to continue (3).
+    a.Choose the table name from the **Select a table to review** dropdown list (1).  
+    b.Review the details of the selected table (2).  
+    c. Select **Next** to continue (3).  
 ![Orchestrate](../Images/exercise-enhance-agent-intelligence-orchestration.svg)
 
 7. On the **Step 3: Review and finish** wizard page, follow these steps:
 
     a. Name the knowledge source **Employee Details** (1).  
-    b. For the knowledge source description, enter **This knowledge source answers questions found in the following Dataverse tables: Employee Details** (2).
+    b. For the knowledge source description, enter **This knowledge source answers questions found in the following Dataverse tables: Employee Details** (2).  
     c. Select the **Add** button to add the table as a knowledge source (3).
 ![Preview Data](../Images/exercise-enhance-agent-intelligence-preview-data.svg)
  
