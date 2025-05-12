@@ -21,9 +21,9 @@ For this exercise, select **Skip to configure**.
 
 The Create New Agent screen has three fields: Name, Description, and Instructions. For this exercise, enter the following information in these fields:
 
--Name (1) - Employee Onboarding Agent
--Description (2) - An agent developed to simplify the employee onboarding process.
--Instructions (3) - You are an agent responsible for employee onboarding. After you receive the onboarding request from HR, validate it and send the employee details to the hiring manager for approval. When the hiring manager approves it, forward the information to the IT and procurement teams so they can complete their respective tasks. After they finish their tasks, send the onboarding confirmation along with the onboarding instructions to the employee.
+- Name (1) - Employee Onboarding Agent
+- Description (2) - An agent developed to simplify the employee onboarding process.
+- Instructions (3) - You are an agent responsible for employee onboarding. After you receive the onboarding request from HR, validate it and send the employee details to the hiring manager for approval. When the hiring manager approves it, forward the information to the IT and procurement teams so they can complete their respective tasks. After they finish their tasks, send the onboarding confirmation along with the onboarding instructions to the employee.
 ![Agent Fields](../Images/exercise-create-autonomous-agent-fields.svg)
 
 4. Select the Create button to create the agent.
