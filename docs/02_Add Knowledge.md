@@ -1,4 +1,4 @@
-# Exercise - Create your first autonomous agent & Add Knowledge
+# Exercise - Create your First Agent & Add Knowledge
 
 In this exercise, you use Copilot Studio to create an agent that helps HR with onboarding a new employee. 
 
