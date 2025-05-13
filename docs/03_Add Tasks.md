@@ -10,7 +10,7 @@ In this exercise, you will have the agent manage employee onboarding by sending 
 
 1. Select the **+ Add action** option from the Overview screen to add an action.
 
-   ![Add Action Option](../Images/Actions/exercise-create-configure-actions-dashboard.svg)
+   ![Add Action Option](../Images/Actions/exercise-create-configure-actions-select-button.svg)
 
 2. In the **Add action wizard**, search for the **Send an email (V2)** connector and select it to proceed to the next step.
 
@@ -44,4 +44,4 @@ For the employee onboarding use case, you need to create two more actions:
 Repeat the steps for **Add action** to create the remaining two actions.  
 After you create the actions, the Action screen displays all three actions. On the agent screen, you can turn off specific actions for the agent.
 
-   ![Action Dashboard](../Images/Actions/exercise-create-configure-actions-dashboard.svg)
+   ![Action Dashboard](../Images/Actions/exercise-create-configure-actions-dashbroad.svg)
